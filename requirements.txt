@@ -1,0 +1,9 @@
+langchain
+openai
+pandas
+gitpython
+chromadb
+lark
+deeplake
+tiktoken
+faiss-cpu
